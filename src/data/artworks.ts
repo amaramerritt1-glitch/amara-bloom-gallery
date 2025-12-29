@@ -59,7 +59,7 @@ export const artworks: Artwork[] = [
       "/art/portal-of-hours-detail-3.jpg",
     ],
     poemFragments: [
-      "Time folds upon itself like silk,",nEach hour a door, each door a choice",
+      "Time folds upon itself like silk,\nEach hour a door, each door a choice",
       "Through azure depths where moments bilk,\nThe soul discovers its own voice",
     ],
     symbols: [
