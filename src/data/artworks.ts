@@ -60,7 +60,7 @@ export const artworks: Artwork[] = [
     ],
     poemFragments: [
       "Time folds upon itself like silk,\nEach hour a door, each door a choice",
-      "Through azure depths where moments bilk,\nThe soul discovers its own voice",
+      "Through azure depths where moments bilk,\nThe soul discoveres its own voice",
     ],
     symbols: [
       {
