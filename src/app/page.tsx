@@ -14,9 +14,9 @@ export default function GalleryPage() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.8, ease: [0.22, 1, 0.36, 1] }}
       >
-        <h1 className={styles.title}>Bloom Gallery</h1>
-        <p className={styles.subtitle}>
-          An illuminated manuscript of dimensional portals
+        <h1 className={styles.title}>Amara Merritt Arts</h1>
+        <p className={styles.subtitle}>The Bloom Archive</p>
+          A sacred library of illuminated transmissions
         </p>
       </motion.header>
 
