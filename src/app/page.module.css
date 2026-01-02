@@ -70,3 +70,9 @@
   color: var(--moss-soft);
   letter-spacing: 0.02em;
 }
+.subtitleSecondary {
+  margin-top: 0.5rem;
+  font-style: italic;
+  opacity: 0.8;
+  letter-spacing: 0.08em;
+}
